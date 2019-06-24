@@ -1,3 +1,3 @@
 # SPOJ problems solved.
 
-This is just us training in SPOJ :shrug:.
+This is just us training in SPOJ 🤷.
